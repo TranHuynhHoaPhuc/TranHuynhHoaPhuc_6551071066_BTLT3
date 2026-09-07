@@ -1,0 +1,16 @@
+E:\Câu1\Câu1\obj\Debug\net10.0-windows\Câu1.Form1.resources
+E:\Câu1\Câu1\obj\Debug\net10.0-windows\Câu1.csproj.GenerateResource.cache
+E:\Câu1\Câu1\obj\Debug\net10.0-windows\Câu1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Câu1\Câu1\obj\Debug\net10.0-windows\Câu1.AssemblyInfoInputs.cache
+E:\Câu1\Câu1\obj\Debug\net10.0-windows\Câu1.AssemblyInfo.cs
+E:\Câu1\Câu1\obj\Debug\net10.0-windows\Câu1.csproj.CoreCompileInputs.cache
+E:\Câu1\Câu1\bin\Debug\net10.0-windows\Câu1.exe
+E:\Câu1\Câu1\bin\Debug\net10.0-windows\Câu1.deps.json
+E:\Câu1\Câu1\bin\Debug\net10.0-windows\Câu1.runtimeconfig.json
+E:\Câu1\Câu1\bin\Debug\net10.0-windows\Câu1.dll
+E:\Câu1\Câu1\bin\Debug\net10.0-windows\Câu1.pdb
+E:\Câu1\Câu1\obj\Debug\net10.0-windows\Câu1.dll
+E:\Câu1\Câu1\obj\Debug\net10.0-windows\refint\Câu1.dll
+E:\Câu1\Câu1\obj\Debug\net10.0-windows\Câu1.pdb
+E:\Câu1\Câu1\obj\Debug\net10.0-windows\Câu1.genruntimeconfig.cache
+E:\Câu1\Câu1\obj\Debug\net10.0-windows\ref\Câu1.dll

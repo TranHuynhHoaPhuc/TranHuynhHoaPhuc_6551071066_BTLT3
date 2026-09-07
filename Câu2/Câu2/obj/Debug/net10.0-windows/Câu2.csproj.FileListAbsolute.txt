@@ -1,0 +1,17 @@
+E:\Câu2\Câu2\bin\Debug\net10.0-windows\Câu2.exe
+E:\Câu2\Câu2\bin\Debug\net10.0-windows\Câu2.deps.json
+E:\Câu2\Câu2\bin\Debug\net10.0-windows\Câu2.runtimeconfig.json
+E:\Câu2\Câu2\bin\Debug\net10.0-windows\Câu2.dll
+E:\Câu2\Câu2\bin\Debug\net10.0-windows\Câu2.pdb
+E:\Câu2\Câu2\obj\Debug\net10.0-windows\Câu2.Form1.resources
+E:\Câu2\Câu2\obj\Debug\net10.0-windows\Câu2.Properties.Resources.resources
+E:\Câu2\Câu2\obj\Debug\net10.0-windows\Câu2.csproj.GenerateResource.cache
+E:\Câu2\Câu2\obj\Debug\net10.0-windows\Câu2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Câu2\Câu2\obj\Debug\net10.0-windows\Câu2.AssemblyInfoInputs.cache
+E:\Câu2\Câu2\obj\Debug\net10.0-windows\Câu2.AssemblyInfo.cs
+E:\Câu2\Câu2\obj\Debug\net10.0-windows\Câu2.csproj.CoreCompileInputs.cache
+E:\Câu2\Câu2\obj\Debug\net10.0-windows\Câu2.dll
+E:\Câu2\Câu2\obj\Debug\net10.0-windows\refint\Câu2.dll
+E:\Câu2\Câu2\obj\Debug\net10.0-windows\Câu2.pdb
+E:\Câu2\Câu2\obj\Debug\net10.0-windows\Câu2.genruntimeconfig.cache
+E:\Câu2\Câu2\obj\Debug\net10.0-windows\ref\Câu2.dll
