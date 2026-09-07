@@ -1,0 +1,16 @@
+E:\Câu4\Câu4\bin\Debug\net10.0-windows\Câu4.exe
+E:\Câu4\Câu4\bin\Debug\net10.0-windows\Câu4.deps.json
+E:\Câu4\Câu4\bin\Debug\net10.0-windows\Câu4.runtimeconfig.json
+E:\Câu4\Câu4\bin\Debug\net10.0-windows\Câu4.dll
+E:\Câu4\Câu4\bin\Debug\net10.0-windows\Câu4.pdb
+E:\Câu4\Câu4\obj\Debug\net10.0-windows\Câu4.Form1.resources
+E:\Câu4\Câu4\obj\Debug\net10.0-windows\Câu4.csproj.GenerateResource.cache
+E:\Câu4\Câu4\obj\Debug\net10.0-windows\Câu4.GeneratedMSBuildEditorConfig.editorconfig
+E:\Câu4\Câu4\obj\Debug\net10.0-windows\Câu4.AssemblyInfoInputs.cache
+E:\Câu4\Câu4\obj\Debug\net10.0-windows\Câu4.AssemblyInfo.cs
+E:\Câu4\Câu4\obj\Debug\net10.0-windows\Câu4.csproj.CoreCompileInputs.cache
+E:\Câu4\Câu4\obj\Debug\net10.0-windows\Câu4.dll
+E:\Câu4\Câu4\obj\Debug\net10.0-windows\refint\Câu4.dll
+E:\Câu4\Câu4\obj\Debug\net10.0-windows\Câu4.pdb
+E:\Câu4\Câu4\obj\Debug\net10.0-windows\Câu4.genruntimeconfig.cache
+E:\Câu4\Câu4\obj\Debug\net10.0-windows\ref\Câu4.dll
